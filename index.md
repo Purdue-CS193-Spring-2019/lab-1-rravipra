@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+# Rthvik's first CS 193 Lab 
+- The things that I like about Purdue is that it has a very diiferent type of Education system compared to the system in which I had to study before.
+- It has a very good Gym.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
