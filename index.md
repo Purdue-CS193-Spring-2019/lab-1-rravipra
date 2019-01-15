@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 # Rthvik's first CS 193 Lab 
-- The things that I like about Purdue is that it has a very diiferent type of Education system compared to the system in which I had to study before.
-- It has a very good Gym.
+- The things that I like about the CS193 course is that they teach everything from the basics and I get to learn a lot of new things and be more comfortable in case I do a minor or major in CS.
+
 
 
 
